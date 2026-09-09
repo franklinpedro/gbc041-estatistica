@@ -1,0 +1,10 @@
+# arquivos do r
+.Rhistory
+.RData
+.Ruserdata
+
+# arquivos do rstudio
+.Rproj.user/
+
+# arquivos do macos
+.DS_Store
