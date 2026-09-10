@@ -1,6 +1,6 @@
 # Estatística — Ciência da Computação
 
-Repositório com os códigos e conjuntos de dados utilizados nas aulas da disciplina **Estatística (GBC041)**, ofertada para o curso de Ciência da Computação da Universidade Federal de Uberlândia (UFU).
+Repositório com os códigos, materiais e conjuntos de dados utilizados nas aulas da disciplina **Estatística (GBC041)**, ofertada para o curso de Ciência da Computação da Universidade Federal de Uberlândia (UFU) no semestre 2026.02.
 
 ## organização do repositório
 
