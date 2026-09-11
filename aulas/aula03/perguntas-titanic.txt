@@ -1,0 +1,46 @@
+ANÁLISE DOS DADOS DO TITANIC
+
+Nesta atividade, vamos explorar um conjunto de dados com informações sobre os passageiros do Titanic. As perguntas abaixo irão orientar nossa análise.
+
+
+CONHECENDO O CONJUNTO DE DADOS
+
+1. Quantos passageiros estão registrados no conjunto de dados?
+
+2. Quais informações temos sobre cada passageiro?
+
+3. Que tipo de informação está armazenada em cada variável?
+
+4. Existem informações ausentes no conjunto de dados?
+
+
+CONHECENDO OS PASSAGEIROS
+
+5. Quantos passageiros eram homens e quantos eram mulheres?
+
+6. Qual era a idade dos passageiros?
+
+7. Qual era a idade do passageiro mais novo? E do mais velho?
+
+8. Qual era a idade do passageiro mais velho?
+
+9. Como os passageiros estavam distribuídos entre a 1ª, 2ª e 3ª classes?
+
+
+INVESTIGANDO A SOBREVIVÊNCIA
+
+10. Quantos passageiros sobreviveram? Quantos morreram?
+
+11. Qual foi a proporção de passageiros que sobreviveram?
+
+12. Homens e mulheres tiveram a mesma proporção de sobreviventes?
+
+13. Passageiros das diferentes classes tiveram a mesma proporção de sobreviventes?
+
+14. A idade dos passageiros parece estar relacionada à sobrevivência?
+
+15. Crianças tiveram maior proporção de sobreviventes que adultos?
+
+16. A relação entre sexo e sobrevivência é a mesma nas três classes?
+
+17. Qual grupo de passageiros apresentou a maior proporção de sobreviventes? E qual apresentou a menor?
