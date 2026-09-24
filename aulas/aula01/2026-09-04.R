@@ -52,6 +52,7 @@
 # o valor calculado à direita
 
 a <- 2 + 2
+a
 
 # também é possível atribuir "ao contrário", com ->
 # aqui o resultado de 2 + 20 é guardado em b
@@ -115,7 +116,7 @@ x + x
 # um vetor é uma sequência de valores do mesmo tipo. Criamos um
 # vetor com a função c() (combine, concatenate)
 
-v <- c(2,50,100)
+v <- c(2,50,100) 
 w <- c(1,7,90)
 
 # operações entre vetores de mesmo tamanho são feitas elemento a elemento
